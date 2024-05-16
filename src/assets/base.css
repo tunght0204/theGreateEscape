@@ -1,0 +1,11 @@
+@keyframes jump {
+  0% {
+    transform: translateY(0); /* Initial position */
+  }
+  50% {
+    transform: translateY(-20px); /* Jump up */
+  }
+  100% {
+    transform: translateY(0); /* Back to initial position */
+  }
+}
