@@ -1,6 +1,12 @@
 # theGreateEscape
 
 This template should help get you started developing with Vue 3 in Vite.
+The current display is supported only on an HD screen.
+
+**- Work progress:
+Day 1: Set up, get resources, design
+Day 2: Code
+Day 3: Improve some styling
 
 ## Recommended IDE Setup
 
@@ -30,16 +36,4 @@ npm run dev
 
 ```sh
 npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
